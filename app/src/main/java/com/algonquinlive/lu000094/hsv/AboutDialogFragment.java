@@ -1,4 +1,4 @@
-package com.algonquinlive.lu000094.rgb_a;
+package com.algonquinlive.lu000094.hsv;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

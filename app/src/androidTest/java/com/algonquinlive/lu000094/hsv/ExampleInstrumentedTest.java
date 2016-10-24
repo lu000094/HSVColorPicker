@@ -1,4 +1,4 @@
-package com.algonquinlive.lu000094.rgb_a;
+package com.algonquinlive.lu000094.hsv;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.algonquinlive.lu000094.rgb_a", appContext.getPackageName());
+        assertEquals("com.algonquinlive.lu000094.hsv", appContext.getPackageName());
     }
 }
